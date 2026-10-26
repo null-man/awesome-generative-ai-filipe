@@ -468,6 +468,9 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Cocreator AI](https://cocreator.ai/): creative computer agent (in wait list)
 * [Runway ML](http://runwayml.com/): AI video creation suite
 * [GrokVideo Studio](https://grokvideogenerator.dev): Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X); free trial credits.
+- [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 * [Hotpot.ai - Hotpot.ai](https://hotpot.ai/): set of AI Tools to post-process images
 * [Toonify yourself by Justin Pinkney](https://www.justinpinkney.com/toonify-yourself/): turn a human face into a cartoon
 * [deepart.io](https://deepart.io/): a online tool for applying style transfer
